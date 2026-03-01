@@ -13,8 +13,8 @@ This project aims to provide **hope** to patients at risk of Sudden Arrhythmic D
 
 ## Dataset & Citations
 This study utilizes the official **Brugada-HUCA Dataset** from PhysioNet.
-* **Dataset Citation:** > *[Sila salin teks sitasi rasmi dari laman web Brugada-HUCA PhysioNet di sini]*
-* **Platform Citation:** > Goldberger, A., Amaral, L., Glass, L., Hausdorff, J., Ivanov, P. C., Mark, R., ... & Stanley, H. E. (2000). PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation [Online]. 101 (23), pp. e215–e220.
+* **Dataset Citation:** *[Sila salin teks sitasi rasmi dari laman web Brugada-HUCA PhysioNet di sini]*
+* **Platform Citation:** Goldberger, A., Amaral, L., Glass, L., Hausdorff, J., Ivanov, P. C., Mark, R., ... & Stanley, H. E. (2000). PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation [Online]. 101 (23), pp. e215–e220.
 
 ---
 
