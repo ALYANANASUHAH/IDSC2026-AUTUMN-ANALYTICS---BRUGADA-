@@ -1,5 +1,5 @@
 # IDSC 2026: Mathematics for Hope in Healthcare
-**Team Name:** Autumn Analytics  
+**Team Name:** Aurum Analytics  
 **Project Title:** Automated Brugada Syndrome Detection & Treatment Strategy Optimization using Deep Learning and Reinforcement Learning.
 
 ---
@@ -33,7 +33,7 @@ To ensure **safety validation** and **model interpretability**, we implement:
 ---
 
 ## How to Run Code
-1. open file `AUTUMN_ANALYTICS.ipynb`.
+1. open file `AURUM_ANALYTICS.ipynb`.
 2. click button **"Open in Colab"**.
 3. RUN ALL to download data set and see output.
   
