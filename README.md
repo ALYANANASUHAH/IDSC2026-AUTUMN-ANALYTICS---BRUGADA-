@@ -37,6 +37,7 @@ To ensure **safety validation** and **model interpretability**, we implement:
 2. click button **"Open in Colab"**.
 3. Upload Data: Click the Folder icon on the left sidebar, choose content folder and upload:
    - files.zip (contains all patient folders with their respective .hea and .dat files.)
+     
      (Note: ZIP file name must be EXACTLY as shown)
    - metadata.csv file
 4. Run Code: select "Run all".
